@@ -1,56 +1,70 @@
-![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
+# Getting Started with Create React App
 
-# ProGrad Lab | REACT HOOKS - BASIC
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Learning Goals
+## Available Scripts
 
-In this exercise, the goal is to learn various use cases with hooks:
+In the project directory, you can run:
 
-- React Hooks
+### `npm start`
 
-## Getting started
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-1. Fork this repo
-2. Clone this repo
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Whenever you create a first significant change, you should make your first commit.
+### `npm test`
 
-3. Follow these [guidelines to add, commit and push changes](https://github.com/FACEPrep-ProGrad/general-guidelines-labs-project-builders.git).
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-In the end of this document, you will find guidelines on how to submit the exercise.
+### `npm run build`
 
-## Instructions
-In this lab we will try to work with hooks in react. You can use a single component or create one component for each progression. This lab is just for your reference and kinldy explore the power of react hooks.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### PROGRESSION 1 | UPDATE STATE USING `useState`
-![Image description](https://i1.faceprep.in/ProGrad/bh1.gif)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### PROGRESSION 2 | MULTIPLE STATE
-![Image description](https://i1.faceprep.in/ProGrad/bh2.gif)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### PROGRESSION 3 | USE OBJECT STATE
-![Image description](https://i1.faceprep.in/ProGrad/bh3.gif)
+### `npm run eject`
 
-### PROGRESSION 4 | INITIALIZE STATE FROM FUNCTION
-![Image description](https://i1.faceprep.in/ProGrad/bh4.gif)
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-### PROGRESSION 5 | `useEffect`
-![Image description](https://i1.faceprep.in/ProGrad/bh5.gif)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### PROGRESSION 6 | `useContext`
-![Image description](https://i1.faceprep.in/ProGrad/bh6.gif)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## Submission
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-If you didn't add, commit and push the changes you made, this is the last call. :smile:
+## Learn More
 
-please share your github links with your Mentors. Your Mentor's will check up your work and provide feedback. 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-## Summary
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-If you managed to do it, good job! :trophy:
+### Code Splitting
 
-We are proud of you!
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Happy Coding ProGrad ❤️!
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
